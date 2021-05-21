@@ -1,21 +1,13 @@
-# Digital Innovation One - Prática .NET
+Meu primeiro projeto Dev através da DIO. 
 
-## Criando uma APP de cadastro em memória
+## Criando uma APP de cadastro em memória.
 
-[Slides](dio-dotnet-poo-lab-2.pdf)
+Estou iniciando meu processo de transição de carreira para área de desenvolvimento de software, abaixo deixo meu LinkedIn onde vocês podem saber mais sobre minha trajetoria profissional.
 
 ## Contato
 
-Eliézer Zarpelão
+Deivisson Costa
 
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)
+Linkedin: https://www.linkedin.com/in/deivissoncosta/
 
-WebSite:  [eliezerzarpelao.eti.br](https://eliezerzarpelao.eti.br)
-
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
-
-YouTube:  [youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g](https://www.youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g/featured?view_as=subscriber)
-
-Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)
-
-Github:  [github.com/elizarp](https://github.com/elizarp)
+Github:  https://github.com/dukbobs
