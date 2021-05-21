@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ENFERMINASADMIN\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ENFERMINASADMIN\\.nuget\\packages"
+    ]
+  }
+}
